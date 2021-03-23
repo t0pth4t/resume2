@@ -2,6 +2,8 @@
 
 Run the `npm run build` command and manually copy the `out` directory to netlify to deploy.
 
+deploy with `netlify deploy --prod` & specify the out directory
+
 # A statically generated blog example using Next.js and Markdown
 
 This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using markdown files as the data source.
