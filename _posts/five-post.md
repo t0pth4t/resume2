@@ -1,13 +1,13 @@
 ---
 title: "(More) Random things I learned"
 excerpt: "(More) Random things I learned"
-coverImage: "/assets/blog/5.jpeg"
+coverImage: "/assets/blog/five.jpeg"
 date: "2021-03-22T05:35:07.322Z"
 author:
-name: Me
-picture: "/assets/blog/authors/avatar.png"
+    name: Me
+    picture: "/assets/blog/authors/avatar.png"
 ogImage:
-url: "/assets/blog/5.jpeg"
+    url: "/assets/blog/five.jpeg"
 ---
 
 # Random things I ran into today
