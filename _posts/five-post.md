@@ -22,6 +22,8 @@ type LogInput struct {
 }
 ```
 
+In golang Log.Fatal actually kills the program
+
 Switching to mac couldn't get my heroku deploy to work. 
 - I had to check in the built golang object and push it to heroku. This doesn't seem right but I don't care enough to fix it.
 - Also had to add heroku remote `heroku git:remote -a app-name`
