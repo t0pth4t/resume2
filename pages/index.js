@@ -36,6 +36,13 @@ export default function Index() {
                 <div className="container">
                   <div className=" space-y-4">
                     <h2 className="text-4xl uppercase">Projects</h2>
+
+                    <h2 className="text-2xl"><a target="_blank" href="https://scrimple-web.netlify.app/" className="btn btn-default btn-lg">Scrimple Logger</a></h2>
+                    <p>Super simple solution for capturing client logs. Developing using React & Golang</p>
+
+                    <h2 className="text-2xl"><a target="_blank" href="https://dadreviewedapps.netlify.app/" className="btn btn-default btn-lg">Dad reviewed apps</a></h2>
+                    <p>Site where I review and rank mobile apps and games for children trying to identify which ones are safe and actually educational.</p>
+
                     <h2 className="text-2xl"><a href="https://cageroulette.netlify.com/#/" target="_blank" className="btn btn-default btn-lg">Cage Roulette</a></h2>
                     <p>Fun experiment built with Preact</p>
 
