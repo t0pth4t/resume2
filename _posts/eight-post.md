@@ -88,3 +88,44 @@ A lot of great stuff in this section.
   - your staff know what they are doing, they aren't going to read through extremely detailed docs but they want some high-level docs or training from time to time.
 - Disciplined agile delivery (DAD)
   - moving beyond SCRUM.
+
+### Product Backlog
+
+>The product backlog is "what is needed, ordered by when it is needed" and is visible to everyone but may only be changed with consent of the product owner, who is responsible for managing and maintaining the product backlog items.
+
+>Story points define the effort in a time-box, so they do not change with time. For instance, in one hour an individual can walk, run, or climb, but the effort expended is clearly different.
+
+>The product owner is responsible for maximizing the value of the product. The product owner gathers input and takes feedback from, and is lobbied by, many people but ultimately has the final decision about what gets built.
+
+### Standups
+
+>One of the crucial features is that the meeting is a communication opportunity among team members and not a status update to management or stakeholders.
+
+### Scrum
+
+>It is designed for teams of ten or fewer members, who break their work into goals that can be completed within time-boxed iterations, called sprints, no longer than one month and most commonly two weeks. 
+
+>the sprint review which demonstrates the work done to stakeholders to elicit feedback, and sprint retrospective which enables the team to reflect and improve.
+
+>A key principle of scrum is the dual recognition that customers will change the scope of what is wanted (often called requirements volatility) and that there will be unpredictable challenges — for which a predictive or planned approach is not suited. These changes come from a variety of sources, but according to scrum, understanding why is irrelevant, and change should simply be accepted, embraced and analyzed for benefits.
+
+>As such, scrum adopts an evidence-based empirical approach – accepting that the problem cannot be fully understood or defined up front, and instead focusing on how to maximize the team's ability to deliver quickly, to respond to emerging requirements, and to adapt to evolving technologies and changes in market conditions.
+
+Scrum master is a servant leader. They are there to shield the team from impediments. They also are supposed to be the SCRUM subject matter expert and chief proselytizer.
+
+Purpose of sprint planning is:
+
+- Agree on sprint goal
+- select backlog items
+- form a sprint backlog by discussing items
+
+Sprint review is mostly a demo with stakeholders. Should make sure to invite and solicit feedback from the stakeholders. Recommendation is that incomplete work is not demoed and that it should be no longer than 2 hours.
+
+Retro:
+
+- What went well
+- what did not go well
+- what could we do differently next sprint
+
+Backlog refinement is an important part of the process to make sure the team is adapting to constantly changing requirements. It does not need to be a scheduled event for mature teams.
+
