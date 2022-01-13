@@ -43,3 +43,7 @@ ogImage:
 ## Misc.
 
 Purpose, Autonomy, and Mastery are what keep people motivated. Knowing what you are working on matters and is contributing to something meaningful is purpose. Having the autonomy to make your own decisions is autonomy. And having pride in high-quality solutions is mastery.
+
+Really cool link [ScrumMaster Checklist](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf)
+
+Interesting blog with some good articles about engineering teams <https://www.kaseymccurdy.com/>
