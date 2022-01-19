@@ -47,3 +47,10 @@ Purpose, Autonomy, and Mastery are what keep people motivated. Knowing what you 
 Really cool link [ScrumMaster Checklist](https://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_12_unbranded.pdf)
 
 Interesting blog with some good articles about engineering teams <https://www.kaseymccurdy.com/>
+
+### Scrum
+
+- Closing out a sprint is a way for the team to feel as if they are making real tangible progress on a regular basis. This is in contrast to working on long drawn-out projects that are not delivering on anything.
+- Walking the board is an alternative to the three questions from stand-up.
+- I forgot we used to do this at Baird. The 16th minute. A way of chatting about stuff that was getting off topic.
+- Technically anyone in the team can run the retro
