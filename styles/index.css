@@ -13,3 +13,8 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+@layer base {
+    a {
+      @apply text-blue-600;
+    }
+  }

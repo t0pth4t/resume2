@@ -65,6 +65,18 @@ export default function Index() {
                 </div>
               </div>
             </section>
+            <section id="download" className="content-section text-center">
+              <div className="download-section">
+                <div className="container">
+                  <div className=" space-y-4">
+                    <h2 className="text-4xl uppercase">Data Science</h2>
+                    <p>I am currently a student at the <a href="https://sps.cuny.edu/" target="_blank">CUNY School of Professional Studies</a> pursuing a Master's degree in Data Science</p>
+                    <p>School GitHub Account <a href='https://github.com/nolivercuny' target='_blank'>nolivercuny</a></p>
+                    <p>Published Assignments <a href='https://rpubs.com/noliver' target='_blank'>RPubs</a></p>
+                </div>
+              </div>
+              </div>
+            </section>
           </div>
         </Container>
       </Layout>
