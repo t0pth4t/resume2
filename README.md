@@ -2,7 +2,7 @@
 
 Run the `npm run build` command and manually copy the `out` directory to netlify to deploy.
 
-deploy with `netlify deploy --prod` & specify the out directory
+deploy with `netlify deploy --prod` & specify the `out` directory
 
 # A statically generated blog example using Next.js and Markdown
 

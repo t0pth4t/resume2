@@ -16,14 +16,14 @@ export default function Index() {
           <Intro />
           <div className="space-y-6">
             <section className=" text-2xl text-center font-semibold	leading-normal">
-              <p>Hello, I’m Nick. I am a software devloper in Milwaukee, WI.</p>
+              <p>Hello, I am Nick. I am a software developer in Milwaukee, WI.</p>
             </section>
 
             <section id="about" className="container content-section text-center">
               <div className="row">
                 <div className="space-y-4">
                   <h2 className="text-4xl uppercase">Employment History</h2>
-                  <p className="font-bold text-xl">Senior Software Engineer,  <a href="https://curo.com/about" target="_blank">CURO Financial Technologies Corp</a>, November 2021 - Current</p>
+                  <p className="font-bold text-xl">Software Engineering Manager,  <a href="https://curo.com/about" target="_blank">CURO Financial Technologies Corp</a>, November 2021 - Current</p>
                   <p>Software Architect, <a href="https://www.milwaukeetool.com/company" target="_blank">Milwaukee Tool</a>, February 2017 - November 2021</p>
                   <p>Software Developer, <a href="http://www.rwbaird.com/who-we-are/" target="_blank">Robert W. Baird</a>, November 2015 - February 2017</p>
                   <p>Software Engineer, <a href="http://www.projectfoundry.com/" target="_blank">Project Foundry</a>, September 2015 - November 2015</p>
