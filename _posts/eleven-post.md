@@ -1,7 +1,7 @@
 ---
 title: "Is Software Engineering Going to be Automated?"
 excerpt: "Is Software Engineering Going to be Automated?"
-coverImage: "/assets/blog/nine.webp"
+coverImage: "/assets/blog/eleven.webp"
 date: "2022-12-21T05:35:07.322Z"
 author:
     name: Me
@@ -44,9 +44,9 @@ Alternatively you could say well, "hell you're not going to be telling it to wri
 
 Here is what ChatGPT wrote for me given this prompt `Write me a blog post that weighs the possibility that software engineering will be automated away by AI`
 
-To save myself from bias I did not read the output before writing this. 
+To save myself from bias I did not read the output before writing this.
 
-```
+---
 As artificial intelligence (AI) continues to advance and become more sophisticated, there is a growing concern among software engineers that their jobs may be automated away by AI. While it is true that AI has the potential to automate certain tasks within the software development process, it is unlikely that it will completely replace the need for human software engineers.
 
 One of the key areas where AI has the potential to automate tasks within software development is in code generation. There are already several tools available that use AI to generate code based on a set of input parameters. While these tools can be useful for generating boilerplate code or for prototyping, they are not yet able to fully replace the creativity and problem-solving skills of a human software engineer.
@@ -56,4 +56,3 @@ Another area where AI could potentially automate tasks within software developme
 It is also worth considering the fact that software development is not just about writing code. It also involves understanding the needs of the end user, designing solutions to complex problems, and managing a team of developers. These tasks require a deep understanding of human behavior and communication, which is difficult for AI to replicate.
 
 Overall, while AI has the potential to automate certain tasks within the software development process, it is unlikely that it will completely replace the need for human software engineers. While it may change the nature of their work, the demand for skilled software engineers is likely to continue as long as there is a need for custom software solutions.
-```
