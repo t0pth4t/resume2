@@ -51,7 +51,7 @@ export default function Index() {
                     <h2 className="text-2xl"><a href="https://www.iwishiknewbefore.com/" target="_blank" className="btn btn-default btn-lg">I Wish I Knew Before</a></h2>
                     <p>Static web blog.</p>
 
-                    <h2 className="text-2xl"><a href="https://www.getpetmatcher.com/" target="_blank" className="btn btn-default btn-lg">Petmatcher</a></h2>
+                    <h2 className="text-2xl"><a href="https://getpetmatcher.netlify.app/" target="_blank" className="btn btn-default btn-lg">Petmatcher</a></h2>
                     <p>Mobile app built with Ionic to help people adopt pets from shelters.</p>
 
                     <h2 className="text-2xl"><a href="http://dattweetstreamer.herokuapp.com/" target="_blank" className="btn btn-default btn-lg">Live Tweet Streamer</a></h2>
